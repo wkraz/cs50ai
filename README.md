@@ -1,1 +1,1 @@
-This is my work for Harvard's CS50 course
+This is just a repository to mess around in Github with
