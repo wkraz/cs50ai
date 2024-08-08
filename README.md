@@ -12,8 +12,9 @@ Project 1: Create an AI that ranks websites based on their determined importance
 Project 2: Create an AI that assesses the likelihood that a person will have a particular genetic trait given their parents' genetics
 ### Problem Set 3: Optimization (simulated annealing, constraint satisfaction, arc consistency/AC3, backtracking)
 Project 1: Create an AI that generates crossword puzzles (if possible) given a structure and word list by using a constraint satisfaction model
-### Problem Set 4: Machine Learning
-
+### Problem Set 4: Machine Learning (KNN, perceptron, loss functions, scikit-learn, q-learning)
+Project 1: Create an AI that uses KNN to predict if an online shopper will complete a purchase given a csv describing their behavior \
+Project 2: Create an AI that teaches itself to play the game Nim through reinforcement learning
 ### Problem Set 5: Neural Networks
 
 ### Problem Set 6: Language Modeling
