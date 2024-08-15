@@ -15,6 +15,6 @@ Project 1: Create an AI that generates crossword puzzles (if possible) given a s
 ### Problem Set 4: Machine Learning (KNN, perceptron, loss functions, scikit-learn, q-learning)
 Project 1: Create an AI that uses KNN to predict if an online shopper will complete a purchase given a csv describing their behavior \
 Project 2: Create an AI that teaches itself to play the game Nim through reinforcement learning
-### Problem Set 5: Neural Networks
-
+### Problem Set 5: Neural Networks (TensorFlow, Keras, gradient descent, backpropogation, CNN)
+Project 1: Create an AI that uses a Convolutional Neural Network through the Keras Tensorflow API to determine which traffic sign appears in a photograph
 ### Problem Set 6: Language Modeling
