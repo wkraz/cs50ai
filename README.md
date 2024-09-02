@@ -21,4 +21,4 @@ Project 1: Create an AI that uses a Convolutional Neural Network through the Ker
 Project 1: Create an AI that parses sentences and extracts Noun Phrases \
 Project 2: Create an AI that predicts a masked word in a text sequence using Google's BERT transformer-based MLM \
 
-[CS50AI.pdf](https://github.com/user-attachments/files/16838634/CS50AI.pdf)
+Certificate: [CS50AI.pdf](https://github.com/user-attachments/files/16838634/CS50AI.pdf)
