@@ -17,4 +17,6 @@ Project 1: Create an AI that uses KNN to predict if an online shopper will compl
 Project 2: Create an AI that teaches itself to play the game Nim through reinforcement learning
 ### Problem Set 5: Neural Networks (TensorFlow, Keras, gradient descent, backpropogation, CNN)
 Project 1: Create an AI that uses a Convolutional Neural Network through the Keras Tensorflow API to determine which traffic sign appears in a photograph
-### Problem Set 6: Language Modeling
+### Problem Set 6: Language Modeling (NLTK library, Naive Bayes Classifier, attention, transformers)
+Project 1: Create an AI that parses sentences and extracts Noun Phrases \
+Project 2: Create an AI that predicts a masked word in a text sequence using Google's BERT transformer-based MLM
