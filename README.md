@@ -19,6 +19,6 @@ Project 2: Create an AI that teaches itself to play the game Nim through reinfor
 Project 1: Create an AI that uses a Convolutional Neural Network through the Keras Tensorflow API to determine which traffic sign appears in a photograph
 ### Problem Set 6: Language Modeling (NLTK library, Naive Bayes Classifier, attention, transformers)
 Project 1: Create an AI that parses sentences and extracts Noun Phrases \
-Project 2: Create an AI that predicts a masked word in a text sequence using Google's BERT transformer-based MLM \
+Project 2: Create an AI that predicts a masked word in a text sequence using Google's BERT transformer-based MLM 
 
 Certificate: [CS50AI.pdf](https://github.com/user-attachments/files/16838634/CS50AI.pdf)
